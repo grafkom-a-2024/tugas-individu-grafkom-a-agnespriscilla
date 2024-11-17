@@ -1,0 +1,11 @@
+Gunakan http-server (Node.js):
+```
+npx http-server
+```
+
+atau, jika sudah terinstal:
+```
+http-server
+```
+
+http://localhost:8080
