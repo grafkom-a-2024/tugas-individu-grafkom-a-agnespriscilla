@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|d:\\agnes priscilla\\college\\mata kuliah\\semester 5\\grafika komputer\\game\\cook simulator\\assets\\pointmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|solutionrelative:assets\\pointmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|d:\\agnes priscilla\\college\\mata kuliah\\semester 5\\grafika komputer\\game\\cook simulator\\assets\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|solutionrelative:assets\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|d:\\agnes priscilla\\college\\mata kuliah\\semester 5\\grafika komputer\\game\\cook simulator\\assets\\initialadsadmob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|solutionrelative:assets\\initialadsadmob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|d:\\agnes priscilla\\college\\mata kuliah\\semester 5\\grafika komputer\\game\\cook simulator\\assets\\gamemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|d:\\agnes priscilla\\college\\mata kuliah\\semester 5\\grafika komputer\\game\\cook simulator\\assets\\cooking_processvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78680FB2-F5B6-5E0C-0D84-FED641C447EC}|Assembly-CSharp.csproj|solutionrelative:assets\\cooking_processvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointManagement.cs",
+              "DocumentMoniker": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\PointManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\PointManagement.cs",
+              "ToolTip": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\PointManagement.cs",
+              "RelativeToolTip": "Assets\\PointManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:54:36.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuManagement.cs",
+              "DocumentMoniker": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\MenuManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuManagement.cs",
+              "ToolTip": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\MenuManagement.cs",
+              "RelativeToolTip": "Assets\\MenuManagement.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:54:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InitialAdsAdmob.cs",
+              "DocumentMoniker": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\InitialAdsAdmob.cs",
+              "RelativeDocumentMoniker": "Assets\\InitialAdsAdmob.cs",
+              "ToolTip": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\InitialAdsAdmob.cs",
+              "RelativeToolTip": "Assets\\InitialAdsAdmob.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:54:30.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManagement.cs",
+              "DocumentMoniker": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\GameManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManagement.cs",
+              "ToolTip": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\GameManagement.cs",
+              "RelativeToolTip": "Assets\\GameManagement.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAAAwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:54:28.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cooking_ProcessValue.cs",
+              "DocumentMoniker": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\Cooking_ProcessValue.cs",
+              "RelativeDocumentMoniker": "Assets\\Cooking_ProcessValue.cs",
+              "ToolTip": "D:\\AGNES PRISCILLA\\COLLEGE\\MATA KULIAH\\SEMESTER 5\\Grafika Komputer\\Game\\Cook Simulator\\Assets\\Cooking_ProcessValue.cs",
+              "RelativeToolTip": "Assets\\Cooking_ProcessValue.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:54:19.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
